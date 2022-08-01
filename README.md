@@ -3,7 +3,7 @@
 Hello! 
 Welcome to my GitHub page.
 
-Here are some projects that were developed out of passion and interest in learning. <a href="https://www.qries.com/">
+Here are some projects that were developed out of passion and interest in learning. <a href="https://www.uol.com.br/" target="_blank">
        <img align="center" alt="Tam-Leal" height="30" width="30" href="https://www.w3schools.com/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" > </a>
 
 I am currently consulting for companies on custom projects. 

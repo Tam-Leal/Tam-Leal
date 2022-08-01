@@ -3,9 +3,10 @@
 Hello! 
 Welcome to my GitHub page.
 
-Here are some projects that were developed out of passion and interest in learning.
+Here are some projects that were developed out of passion and interest in learning. <a href="https://www.qries.com/">
+       <img align="center" alt="Tam-Leal" height="30" width="30" href="https://www.w3schools.com/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" > </a>
 
-I am currently consulting for companies on custom projects.
+I am currently consulting for companies on custom projects. 
 Let´s do something together?🚀
 
 

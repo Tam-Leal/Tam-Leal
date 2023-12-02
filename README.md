@@ -18,6 +18,6 @@ Let´s do something together?🚀
 <img align="center" alt="Tam-Leal" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">&nbsp
 <img align="center" alt="Tam-Leal" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 <img align="center" alt="Tam-Leal" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">   
-
+<img align="center" alt="Tam-Leal" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">   
 </div>
           

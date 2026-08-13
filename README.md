@@ -20,7 +20,7 @@ From intelligent data pipelines and AI agents to APIs, web applications, mobile 
   <img alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;
   <img alt="Supabase" height="40" width="40" src="https://cdn.simpleicons.org/supabase">&nbsp;&nbsp;&nbsp;
   <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+  <img alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="Cloudflare" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg">
 </p>
 

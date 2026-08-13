@@ -1,4 +1,3 @@
-```html
 # Hi, I'm Tam Leal 👋
 
 **AI Engineer & Software Developer** building practical products with AI, automation, data, and modern software architecture.
@@ -56,4 +55,3 @@ Feel free to connect with me: <a href="https://www.linkedin.com/in/tamerleal/"><
 <br><br>
 
 **Build. Test. Learn. Ship.**
-```

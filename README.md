@@ -13,7 +13,7 @@ From intelligent data pipelines and AI agents to APIs, web applications, mobile 
 <p>
   <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
   <img alt="FastAPI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="OpenAI" height="40" width="40" src="https://cdn.simpleicons.org/openai/000000/FFFFFF">&nbsp;&nbsp;&nbsp;
+  <img alt="OpenAI" height="40" src="https://cdn.simpleicons.org/openai/412991" />&nbsp;&nbsp;&nbsp;
   <img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;&nbsp;&nbsp;
   <img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;
   <img alt="React Native" height="40" width="40" src="https://cdn.simpleicons.org/react/61DAFB">&nbsp;&nbsp;&nbsp;

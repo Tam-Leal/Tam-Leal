@@ -1,14 +1,10 @@
 Hi there 👋
 
-I'm Tamer Leal, an AI Engineer & Software Developer focused on building practical products with AI, automation, data, and modern software architecture.
+I'm Tam Leal, an AI Engineer & Software Developer focused on building practical products with AI, automation, data, and modern software architecture.
 
 I build intelligent data pipelines, AI-powered systems, APIs, web applications, mobile apps, and automation tools.
 
 I enjoy turning complex ideas into real, usable products.
-
-<a href="https://www.linkedin.com/in/tamerleal/">
-  <img align="center" alt="LinkedIn" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-</a><br><br>
 
 What I work with
 
@@ -46,6 +42,8 @@ I'm open to engineering challenges, product ideas, open-source projects, and col
 
 I'm actively building and sharing more as I go.
 
-Feel free to reach out or connect with me on LinkedIn.
+Feel free to connect with me: <a href="https://www.linkedin.com/in/tamerleal/"><img align="center" alt="LinkedIn" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+
+<br><br>
 
 Build. Test. Learn. Ship.
